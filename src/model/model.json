@@ -6,7 +6,7 @@
     "keras_version": "2.8.0",
     "backend": "tensorflow",
     "model_config": {
-      "class_name": "Functional",
+      "class_name": "Model",
       "config": {
         "name": "model_3",
         "layers": [
